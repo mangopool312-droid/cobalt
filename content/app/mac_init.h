@@ -4,12 +4,3 @@
 
 #ifndef CONTENT_APP_MAC_INIT_H_
 #define CONTENT_APP_MAC_INIT_H_
-
-namespace content {
-
-// Perform any necessary Mac initialization.
-void InitializeMac();
-
-}  // namespace content
-
-#endif  // CONTENT_APP_MAC_INIT_H_
